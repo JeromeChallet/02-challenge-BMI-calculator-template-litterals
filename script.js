@@ -7,5 +7,6 @@ let heightJohn = 1.5;
 
 let BMIMark = massMark / (heightMark * heightMark);
 let BMIJohn = massJohn / (heightJohn * heightJohn);
+const markHigherBMI = BMIMark > BMIJohn;
 
-console.log(BMIJohn, BMIMark);
+console.log(BMIJohn, BMIMark, markHigherBMI);
