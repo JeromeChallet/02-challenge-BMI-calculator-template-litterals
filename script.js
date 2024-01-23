@@ -10,4 +10,3 @@ let BMIJohn = massJohn / (heightJohn * heightJohn);
 const markHigherBMI = BMIMark > BMIJohn;
 
 console.log(BMIJohn, BMIMark, markHigherBMI);
-test;

@@ -1,1 +1,1 @@
-# 01-challenge-BMI-calculator
+# 02-challenge-BMI-calculator-string litterals
